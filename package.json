@@ -1,6 +1,6 @@
 {
-	"author": "Daniel Biapa ",
-	"name": "fcc-learn-npm-package-json",
+	"author": "Jane Doe ",
+	"name": "Daniel Biapa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
